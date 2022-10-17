@@ -1,6 +1,6 @@
 This site is meant to document my journey through building a high-end arcade pedestal, being a total noob in the process.
 
-![https://img.shields.io/twitter/follow/cadeboost?style=social](Twitter)
+![Twitter](https://img.shields.io/twitter/follow/cadeboost?style=social)
 
 # Table of Contents
 
@@ -49,13 +49,22 @@ The second option is to find a vendor like [North Coast Custom Arcades](https://
 
 The third option is to design and build the cabinet yourself.  This requires CAD software skills and having access to someone who can do precision CNC cutting of wood for you.  While you can cut all the wood yourself, the end result is often not as clean as having a machine cut it.  This option is by far the most work, but is the cheapest.  The final result may vary wildly based on your skills at design and carpentry.
 
-# Inspiration and Overall Design
-
 ## What I Chose
 
 While there are a number of pre-made and DIY pedestal cabinets available, I wasn't totally happy with any of them.  Some of them don't offer enough room in the base for a full PC.  I also want to really do some crazy things with this cabinet, instead of only having the standard vanilla control cutouts in the control panel.
 
 In the end, I felt like it would be a fun project to try and do a custom build.  And to seek out some companies to help with certain parts of the build.  
+
+To recap, my plan is:
+
+- Go with a pedestal arcade design, with casters for mobility.
+- Use a Windows PC.
+- Custom design and build the cabinet.
+
+<img src="images/pedestal-arcade-example.webp" width="216" height="288" alt="Pedestal Arcade Example" />
+
+*Pedestal arcade example from [Instructables](https://www.instructables.com/4-Player-Pedestal-Arcade-Cabinet-for-MAME/)*
+
 
 This is going to be painful.  While I am very good with software, I am a complete novice with woodworking and electrical components.  I'll do my best to document everything as I go so that it might help out others.  Let the journey begin!
 
