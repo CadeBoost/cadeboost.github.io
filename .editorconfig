@@ -1,0 +1,33 @@
+# Changes made to this file should be replicated in the "\Public\.editorconfig" file *except* where
+# the public file turns off language suggestions which are only available in C# 8.0
+
+# top-most EditorConfig file
+root = true
+
+# Default settings (all files)
+[*]
+end_of_line = crlf
+indent_size = 4
+indent_style = tab
+insert_final_newline = false
+tab_width = 4
+
+# JSON files
+[*.{json}]
+indent_size = 2
+tab_width = 2
+
+# XML files
+[*.{xml,xsl,xslt,xsd}]
+indent_size = 2
+tab_width = 2
+
+# XML project files
+[*.{csproj,vbproj,Build.props}]
+indent_size = 2
+tab_width = 2
+
+# XML IDE/Application files
+[*.{snippet,vssettings,resx,manifest}]
+indent_size = 2
+tab_width = 2
