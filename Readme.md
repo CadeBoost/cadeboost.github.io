@@ -4,10 +4,10 @@ This site is meant to document my journey through building a high-end arcade ped
 
 # Table of Contents
 
-- Inspiration and Overall Design
+- [Inspiration and Overall Design](#inspiration-and-overall-design)
 - *More soon!*
 
-# Inspiration and Overall Designs
+# Inspiration and Overall Design
 
 I'm a software developer and have always loved video games.  I have fond memories of visiting arcades as a child and have owned a number of console gaming systems.  While I appreciate the simplicity of classic retro games, I also love more modern PC and console games such as those you can purchase through Steam or get through the Microsoft Game Pass.  I've been following the work of MAME and other emulators off and on over the years and always wanted to have an arcade cabinet of my own to play games with family and friends.
 
