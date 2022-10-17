@@ -1,6 +1,6 @@
 This site is meant to document my journey through building a high-end arcade pedestal, being a total noob in the process.
 
-![Twitter](https://img.shields.io/twitter/follow/cadeboost?style=social)
+[![Twitter](https://img.shields.io/twitter/follow/cadeboost?style=social)](https://twitter.com/CadeBoost)
 
 # Table of Contents
 
