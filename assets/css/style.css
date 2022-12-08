@@ -420,9 +420,14 @@ video {
 }
 
 h1 {
-  color: #f4f4f5;
-  text-shadow: 1px 1px 2px #d4d4d8;
-  font-weight: 600;
+  color: #FFF8D5;
+  text-shadow: 
+			0 0.1rem 0 #00000080,
+			0 0 0.2rem #FBD61D,
+			0 0 0.4rem #C2A303,
+			0 0 0.6rem #887203,
+			0 0 1.5rem #887203;
+  font-weight: 300;
 }
 
 .prose a {
@@ -433,20 +438,45 @@ h1 {
   color: #fed7aa;
 }
 
+/* Neon tricks: https://css-tricks.com/how-to-create-neon-text-with-css/ */
+
 .prose h2 {
-  color: #f0abfc;
-  text-shadow: 1px 1px 2px #d946ef;
-  font-weight: 600;
+  color: #FFC9FF;
+  text-shadow: 
+			0 0.1rem 0 #00000080,
+			0 0 0.2rem #FDA2FD,
+			0 0 0.4rem #FE58FE,
+			0 0 0.6rem #960096,
+			0 0 1.5rem #960096;
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+  font-weight: 300;
 }
 
 .prose h3 {
-  color: #99f6e4;
-  text-shadow: 1px 1px 2px #2dd4bf;
+  color: #D5FEFF;
+  text-shadow: 
+			0 0.1rem 0 #00000080,
+			0 0 0.2rem #1DF5FB,
+			0 0 0.4rem #03BEC2,
+			0 0 0.6rem #038588,
+			0 0 1.5rem #038588;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 300;
 }
 
 .prose h4 {
-  color: #fef08a;
-  text-shadow: 1px 1px 1px #facc15;
+  color: #FFF8D5;
+  text-shadow: 
+			0 0.1rem 0 #00000080,
+			0 0 0.2rem #FBD61D,
+			0 0 0.4rem #C2A303,
+			0 0 0.6rem #887203,
+			0 0 1.5rem #887203;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  font-weight: 300;
 }
 
 .prose li {
@@ -1053,10 +1083,6 @@ h1 {
   margin-right: auto;
 }
 
-.mt-2 {
-  margin-top: 0.5rem;
-}
-
 .mt-1 {
   margin-top: 0.25rem;
 }
@@ -1139,14 +1165,9 @@ h1 {
   text-align: center;
 }
 
-.text-4xl {
-  font-size: 2.25rem;
-  line-height: 2.5rem;
-}
-
-.text-xl {
-  font-size: 1.25rem;
-  line-height: 1.75rem;
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
 
 .text-base {
@@ -1154,13 +1175,9 @@ h1 {
   line-height: 1.5rem;
 }
 
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
-}
-
-.font-semibold {
-  font-weight: 600;
+.text-3xl {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
 }
 
 .leading-tight {
@@ -1169,11 +1186,6 @@ h1 {
 
 .leading-normal {
   line-height: 1.5;
-}
-
-.text-zinc-100 {
-  --tw-text-opacity: 1;
-  color: rgb(244 244 245 / var(--tw-text-opacity));
 }
 
 .text-zinc-400 {

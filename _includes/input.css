@@ -5,9 +5,14 @@
 @layer base {
 
 	h1 {
-		color: theme("colors.zinc.100");
-		text-shadow: 1px 1px 2px theme("colors.zinc.300");
-		@apply font-semibold;
+		color: #FFF8D5;
+		text-shadow: 
+			0 0.1rem 0 #00000080,
+			0 0 0.2rem #FBD61D,
+			0 0 0.4rem #C2A303,
+			0 0 0.6rem #887203,
+			0 0 1.5rem #887203;
+		@apply font-light;
 	}
 
 	.prose a {
@@ -18,20 +23,39 @@
 		color: theme("colors.orange.200");
 	}
 
+	/* Neon tricks: https://css-tricks.com/how-to-create-neon-text-with-css/ */
+
 	.prose h2 {
-		color: theme("colors.fuchsia.300");
-		text-shadow: 1px 1px 2px theme("colors.fuchsia.500");
-		@apply font-semibold;
+		color: #FFC9FF;
+		text-shadow: 
+			0 0.1rem 0 #00000080,
+			0 0 0.2rem #FDA2FD,
+			0 0 0.4rem #FE58FE,
+			0 0 0.6rem #960096,
+			0 0 1.5rem #960096;
+		@apply font-light text-3xl;
 	}
 
 	.prose h3 {
-		color: theme("colors.teal.200");
-		text-shadow: 1px 1px 2px theme("colors.teal.400");
+		color: #D5FEFF;
+		text-shadow: 
+			0 0.1rem 0 #00000080,
+			0 0 0.2rem #1DF5FB,
+			0 0 0.4rem #03BEC2,
+			0 0 0.6rem #038588,
+			0 0 1.5rem #038588;
+		@apply font-light text-2xl;
 	}
 
 	.prose h4 {
-		color: theme("colors.yellow.200");
-		text-shadow: 1px 1px 1px theme("colors.yellow.400");
+		color: #FFF8D5;
+		text-shadow: 
+			0 0.1rem 0 #00000080,
+			0 0 0.2rem #FBD61D,
+			0 0 0.4rem #C2A303,
+			0 0 0.6rem #887203,
+			0 0 1.5rem #887203;
+		@apply font-light text-xl;
 	}
 
 	.prose li {
