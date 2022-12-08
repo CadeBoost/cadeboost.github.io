@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+
+	.prose h2 {
+		color: theme("colors.fuchsia.300");
+	}
+
+	.prose h3 {
+		color: theme('colors.teal.200');
+	}
+
+	.prose li {
+		@apply m-1;
+	}
+
+	.prose li::marker {
+		color: theme('colors.yellow.200');
+	}
+
+}
