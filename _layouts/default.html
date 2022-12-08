@@ -9,7 +9,7 @@
 {% include head-custom.html %}
 	</head>
 
-	<body class="dark:bg-zinc-900">
+	<body class="dark:bg-zinc-900 leading-tight">
 		<header class="border-b-2 border-zinc-200 bg-carbon-fiber bg-carbon-fiber-size dark:border-zinc-700" role="banner">
 			<div class="mx-auto max-w-7xl py-6 px-4 sm:px-6 lg:px-8">
 				<div class="grid grid-cols-4 gap-8 md:grid-cols-6">
@@ -23,13 +23,16 @@
 		</header>
 
 		<main id="content" class="mx-auto max-w-7xl py-8 px-4 dark:bg-zinc-800 sm:px-6 lg:py-12 lg:px-8" role="main">
-			<article class="prose prose-zinc max-w-none dark:prose-invert">
+			<article class="prose prose-zinc max-w-none dark:prose-invert leading-normal">
 {{ content }}
 			</article>
 		</main>
 
 		<footer class="mx-auto max-w-7xl border-t-2 border-zinc-200 py-6 px-4 dark:border-zinc-700 sm:px-6 lg:py-8 lg:px-8">
-			<div class="text-center text-base text-zinc-500">Copyright &copy; 2022 CadeBoost. All rights reserved.</div>
+			<div class="text-center text-base text-zinc-500">
+				Copyright &copy; 2022 CadeBoost. <br class="sm:hidden" />
+				All rights reserved.
+			</div>
 		</footer>
 	</body>
 </html>
