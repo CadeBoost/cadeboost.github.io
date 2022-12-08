@@ -4,12 +4,34 @@
 
 @layer base {
 
+	h1 {
+		color: theme("colors.zinc.100");
+		text-shadow: 1px 1px 2px theme("colors.zinc.300");
+		@apply font-semibold;
+	}
+
+	.prose a {
+		@apply no-underline;
+	}
+
+	.prose a:hover {
+		color: theme("colors.orange.200");
+	}
+
 	.prose h2 {
 		color: theme("colors.fuchsia.300");
+		text-shadow: 1px 1px 2px theme("colors.fuchsia.500");
+		@apply font-semibold;
 	}
 
 	.prose h3 {
-		color: theme('colors.teal.200');
+		color: theme("colors.teal.200");
+		text-shadow: 1px 1px 2px theme("colors.teal.400");
+	}
+
+	.prose h4 {
+		color: theme("colors.yellow.200");
+		text-shadow: 1px 1px 1px theme("colors.yellow.400");
 	}
 
 	.prose li {
@@ -17,7 +39,7 @@
 	}
 
 	.prose li::marker {
-		color: theme('colors.yellow.200');
+		color: theme("colors.zinc.50");
 	}
 
 }

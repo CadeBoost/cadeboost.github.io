@@ -419,12 +419,34 @@ video {
   display: none;
 }
 
+h1 {
+  color: #f4f4f5;
+  text-shadow: 1px 1px 2px #d4d4d8;
+  font-weight: 600;
+}
+
+.prose a {
+  text-decoration-line: none;
+}
+
+.prose a:hover {
+  color: #fed7aa;
+}
+
 .prose h2 {
   color: #f0abfc;
+  text-shadow: 1px 1px 2px #d946ef;
+  font-weight: 600;
 }
 
 .prose h3 {
   color: #99f6e4;
+  text-shadow: 1px 1px 2px #2dd4bf;
+}
+
+.prose h4 {
+  color: #fef08a;
+  text-shadow: 1px 1px 1px #facc15;
 }
 
 .prose li {
@@ -432,7 +454,7 @@ video {
 }
 
 .prose li::marker {
-  color: #fef08a;
+  color: #fafafa;
 }
 
 *, ::before, ::after {
