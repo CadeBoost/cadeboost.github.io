@@ -1,4 +1,4 @@
-This site is meant to document my journey through building a high-end arcade pedestal, being a total noob in the process.
+This site documents my journey through building a high-end arcade pedestal, being a total noob in the process.
 
 [![Twitter](https://img.shields.io/twitter/follow/cadeboost?style=social)](https://twitter.com/CadeBoost)
 
@@ -68,3 +68,13 @@ To recap, my plan is:
 This is going to be painful.  While I am very good with software, I am a complete novice with woodworking and electrical components.  I'll do my best to document everything as I go so that it might help out others.  Let the journey begin!
 
 *More coming soon!*
+
+## Posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
