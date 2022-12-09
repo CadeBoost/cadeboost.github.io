@@ -4,6 +4,14 @@
 
 @layer base {
 
+	a {
+		color: theme("colors.zinc.300");
+	}
+
+	a:hover {
+		color: theme("colors.orange.200");
+	}
+
 	h1 {
 		color: #FFF8D5;
 		text-shadow: 
@@ -63,7 +71,7 @@
 	}
 
 	.prose li::marker {
-		color: theme("colors.zinc.50");
+		color: theme('colors.yellow.200'); 
 	}
 
 }

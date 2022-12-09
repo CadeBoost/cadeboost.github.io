@@ -419,6 +419,14 @@ video {
   display: none;
 }
 
+a {
+  color: #d4d4d8;
+}
+
+a:hover {
+  color: #fed7aa;
+}
+
 h1 {
   color: #FFF8D5;
   text-shadow: 
@@ -484,7 +492,7 @@ h1 {
 }
 
 .prose li::marker {
-  color: #fafafa;
+  color: #fef08a;
 }
 
 *, ::before, ::after {

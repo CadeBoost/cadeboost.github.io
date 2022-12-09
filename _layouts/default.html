@@ -11,14 +11,17 @@
 
 	<body class="leading-tight dark:bg-zinc-900">
 		<header
+			id="top"
 			class="mx-auto max-w-7xl border-x-2 border-zinc-200 bg-carbon-fiber bg-carbon-fiber-size py-6 px-4 dark:border-black sm:px-6 lg:px-8"
 			role="banner"
 		>
 			<div class="grid grid-cols-4 gap-8 md:grid-cols-6">
-				<img
-					class="place-self-center rounded-full border-4 border-zinc-900 shadow-lg shadow-zinc-900/50"
-					src="/assets/images/cadeboost-neonlogo-square.jpg"
-				/>
+				<a href="/">
+					<img
+						class="place-self-center rounded-full border-4 border-zinc-900 shadow-lg shadow-zinc-900/50"
+						src="/assets/images/cadeboost-neonlogo-square.jpg"
+					/>
+				</a>
 				<div class="col-span-3 place-self-center md:col-span-5">
 					<h1 class="text-2xl sm:text-4xl">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
 					<div class="mt-1 text-zinc-400 sm:mt-2 sm:text-xl">{{ page.description | default: site.description | default: site.github.project_tagline }}</div>
@@ -34,7 +37,7 @@
 
 		<footer class="mx-auto max-w-7xl py-6 px-4 sm:px-6 lg:py-8 lg:px-8">
 			<div class="text-center text-base text-zinc-500">
-				Copyright &copy; 2022 CadeBoost. <br class="sm:hidden" />
+				Copyright &copy; 2022 <a href="/">CadeBoost</a>. <br class="sm:hidden" />
 				All rights reserved.
 			</div>
 		</footer>
