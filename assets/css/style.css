@@ -1111,6 +1111,14 @@ h1 {
   grid-template-columns: repeat(4, minmax(0, 1fr));
 }
 
+.content-center {
+  align-content: center;
+}
+
+.items-center {
+  align-items: center;
+}
+
 .gap-8 {
   gap: 2rem;
 }
@@ -1169,8 +1177,17 @@ h1 {
   padding-bottom: 2rem;
 }
 
+.py-12 {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
 .text-center {
   text-align: center;
+}
+
+.align-middle {
+  vertical-align: middle;
 }
 
 .text-2xl {
@@ -1300,5 +1317,10 @@ h1 {
   .lg\:py-8 {
     padding-top: 2rem;
     padding-bottom: 2rem;
+  }
+
+  .lg\:py-16 {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
   }
 }
