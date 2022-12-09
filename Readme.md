@@ -7,8 +7,13 @@ This web site documents my journey through building a high-end arcade pedestal, 
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-	  {{ post.excerpt | strip_html | truncatewords:75 }}
+		<div>
+			<a href="{{ post.url }}">{{ post.title }}</a>
+			<span class="text-sm text-zinc-400">- {{ post.date | date: "%b %d, %Y" }}</span>
+		</div>
+		<div>
+			{{ post.excerpt | strip_html | truncatewords:50 }}
+		</div>
     </li>
   {% endfor %}
   <li><i>More coming soon!</i></li>
