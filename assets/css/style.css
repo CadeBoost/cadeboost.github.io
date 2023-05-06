@@ -443,6 +443,7 @@ h1 {
 }
 
 .prose a:hover {
+  color: #fdba74;
   color: #fed7aa;
 }
 

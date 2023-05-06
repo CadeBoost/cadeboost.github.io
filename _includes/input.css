@@ -28,6 +28,7 @@
 	}
 
 	.prose a:hover {
+		color: theme("colors.orange.300");
 		color: theme("colors.orange.200");
 	}
 
