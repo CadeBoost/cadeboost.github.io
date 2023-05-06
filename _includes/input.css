@@ -74,7 +74,7 @@
 		color: theme('colors.yellow.200'); 
 	}
 
-	.prose strong {
+	.prose :where(strong) {
 		color: inherit;
 		font-weight: 600;
 	}

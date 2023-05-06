@@ -4,7 +4,9 @@ description: The control panel layout should be planned with care.
 tags: design control-panel joystick buttons
 ---
 
-The [previous post]({% post_url 2023-01-04-planning-a-joystick-button-layout %}) examined several possible joystick and button layouts.  I ended up selecting the **Clustered Arcade Layout** design from [Slagcoin](https://www.slagcoin.com/joystick/layout.html) as my choice for the arcade pedestal.  The next step is to fire up a vector design application to plan the overall design of the control panel.
+Designing a control panel involves doing product research and selecting the controls to be included, making sure your control panel wood board has enough surface area to support the controls, and then using a vector design application to plot the overall layout.
+
+The [previous post]({% post_url 2023-01-04-planning-a-joystick-button-layout %}) examined several possible joystick and button layouts.  I ended up selecting the **Clustered Arcade Layout** design from [Slagcoin](https://www.slagcoin.com/joystick/layout.html) as my choice for the arcade pedestal.  We'll use that information after selecting controls to work on the control panel layout.
 
 ## Affinity Designer
 
