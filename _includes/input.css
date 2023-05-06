@@ -5,7 +5,7 @@
 @layer base {
 
 	a {
-		color: theme("colors.zinc.300");
+		color: theme("colors.orange.300");
 	}
 
 	a:hover {
@@ -75,7 +75,7 @@
 	}
 
 	.prose strong {
-		color: theme("colors.zinc.400");
+		color: theme("colors.zinc.300");
 	}
 
 }
