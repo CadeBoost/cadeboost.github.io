@@ -61,3 +61,5 @@ To recap, my plan is:
 *Pedestal arcade example from [Instructables](https://www.instructables.com/4-Player-Pedestal-Arcade-Cabinet-for-MAME/)*
 
 This is going to be painful.  While I am very good with software, I am a complete novice with woodworking and electrical components.  I'll do my best to document everything as I go so that it might help out others.  Let the journey begin!
+
+In the [next post]({% post_url 2023-01-04-planning-a-joystick-button-layout %}), we'll plan a joystick button layout.

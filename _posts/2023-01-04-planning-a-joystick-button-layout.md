@@ -40,7 +40,7 @@ The easiest way to test a layout design is to simply print it at 100% scale on a
 
 If you have real arcade buttons laying around, an even better way to test the layout design is to get a scrap wooden board or cardboard, and drill holes into it a the positions indicated by the layout design.
 
-To create my test wood board, I taped a layout design on the board.  I then placed a nail setter over each hole's center on the paper and used a hammer to make a depression in the wood at that point to mark the holes' centers.  I used a 28mm drill bit and drilled through the wood at each hole's center.  Then I inserted the arcade buttons and placed the test board's edges on a surface where I could use the buttons as if they were on a real arcade cabinet.  This methodology is the truest way to determine if you will be happy with a button layout design since you are interacting with real buttons.
+To create my test wood board, I taped a layout design on the board.  I then placed a nail setter over each hole's center on the paper and used a hammer to make a depression in the wood at that point to mark the holes' centers.  I used a **28mm drill bit** and drilled through the wood at each hole's center.  Then I inserted the arcade buttons and placed the test board's edges on a surface where I could use the buttons as if they were on a real arcade cabinet.  This methodology is the truest way to determine if you will be happy with a button layout design since you are interacting with real buttons.
 
 ![Test Wood board](/assets/images/posts/2023-01-04-test-wood-board.jpg)
 
@@ -50,6 +50,6 @@ In my test wood board (a.k.a. FrankenBoard), I drilled holes for multiple layout
 
 ## Summary
 
-I ended up picking the Clustered Arcade Layout design displayed in the Slagcoin example above, with the rightmost buttons in the displayed middle positions.  My fingers fit very naturally on all of the top row buttons and my thumb rests on the bottom leftmost button.
+I ended up picking the **Clustered Arcade Layout** design displayed in the Slagcoin example above, with the rightmost buttons in the displayed middle positions.  My fingers fit very naturally on all of the top row buttons and my thumb rests on the bottom leftmost button.
 
 For my players 1 and 2 control areas, I will use all 8 buttons.  My players 3 and 4 control areas will only use 6 buttons, basically by excluding the rightmost two in the layout design but otherwise retaining the same positioning.
