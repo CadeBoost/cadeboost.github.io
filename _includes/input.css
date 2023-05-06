@@ -75,7 +75,7 @@
 	}
 
 	.prose strong {
-		color: theme("colors.gray.500") !important;
+		color: theme("colors.gray.400") !important;
 	}
 
 }
