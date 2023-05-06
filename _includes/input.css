@@ -75,7 +75,7 @@
 	}
 
 	.prose strong {
-		color: inherit;
+		color: theme("colors.zinc.400");
 	}
 
 }

@@ -496,7 +496,7 @@ h1 {
 }
 
 .prose strong {
-  color: inherit;
+  color: #a1a1aa;
 }
 
 *, ::before, ::after {
