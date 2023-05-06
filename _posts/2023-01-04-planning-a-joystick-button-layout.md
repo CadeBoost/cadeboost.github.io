@@ -46,10 +46,13 @@ To create my test wood board, I taped a layout design on the board.  I then plac
 
 *My test wood board, with holes drilled for several layout designs*
 
-In my test wood board (a.k.a. FrankenBoard), I drilled holes for multiple layout designs.  After trying them all, it was very clear to me which one I should select.
+In my test wood board (a.k.a. **FrankenBoard**), I drilled holes for multiple layout designs.  After trying them all, it was very clear to me which one I should select.
 
 ## Summary
 
 I ended up picking the **Clustered Arcade Layout** design displayed in the Slagcoin example above, with the rightmost buttons in the displayed middle positions.  My fingers fit very naturally on all of the top row buttons and my thumb rests on the bottom leftmost button.
 
 For my players 1 and 2 control areas, I will use all 8 buttons.  My players 3 and 4 control areas will only use 6 buttons, basically by excluding the rightmost two in the layout design but otherwise retaining the same positioning.
+
+In the [next post]({% post_url 2023-05-06-designing-the-control-panel %}), we will select controls to purchase for the control panel and will design the control panel layout.
+
