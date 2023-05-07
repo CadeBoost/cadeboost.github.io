@@ -56,7 +56,7 @@ To recap, my plan is:
 - Use a Windows PC.
 - Custom design and build the cabinet.
 
-![Pedestal Arcade Example](/assets/images/posts/2022-10-16-pedestal-arcade-example.webp)
+![Pedestal Arcade Example](/assets/images/posts/2022-10-16/pedestal-arcade-example.webp)
 
 *Pedestal arcade example from [Instructables](https://www.instructables.com/4-Player-Pedestal-Arcade-Cabinet-for-MAME/)*
 

@@ -26,7 +26,7 @@ The outer corners of control panels have to be somewhat rounded so that when **T
 
 Unlike a traditional full-size arcade cabinet, the entire control panel wood piece is exposed on a pedestal, so all corners need rounding.  I am using a **1" radius** on all corners of the outer control panel shape.
 
-![Control Panel Outer Contour](/assets/images/posts/2023-05-06-control-panel-outer-contour.png)
+![Control Panel Outer Contour](/assets/images/posts/2023-05-06/control-panel-outer-contour.png)
 
 *The outer shape of the control panel*
 
@@ -46,23 +46,29 @@ Four players will be supported, with the players 1 and 2 having a joystick and e
 
 The players 1 and 2 joysticks will be [Ultimarc ServoStiks](https://www.ultimarc.com/arcade-controls/joysticks/servostik/?variation_id=318), which have a motor-driven restrictor plate that switches between 4-way and 8-way based on the game being played.  4-way hardware restriction is important for classic games like **Pac-Man**.
 
-![Ultimarc ServoStik](/assets/images/posts/2023-05-06-ultimarc-servostik.jpg)
+![Ultimarc ServoStik](/assets/images/posts/2023-05-06/ultimarc-servostik.jpg)
 
 *An underside view of the Ultimarc ServoStik*
 
 The players 3 and 4 joysticks will be [Ultimarc J-Stiks](https://www.ultimarc.com/arcade-controls/joysticks/j-stik-oval-top/), which are the same joysticks used in the ServoStik product.  The difference is that they don't include a servo motor attachment.  These joysticks will remain in 8-way mode.
 
-![Ultimarc J-Stik](/assets/images/posts/2023-05-06-ultimarc-j-stik.jpg)
+![Ultimarc J-Stik](/assets/images/posts/2023-05-06/ultimarc-j-stik.jpg)
 
 *The Ultimarc J-Stik*
 
 I will also swap in Ultimarc's [RGB illuminated handles](https://www.ultimarc.com/arcade-controls/joystick-accessories/illuminated-handles-for-j-stik-servostik/) on all four of these joysticks so that they can be lit up.
 
+Here's a quick note on joystick orientation.  When actually playing games, people naturally want to move joysticks towards the screen when trying to move in an upward direction.  Therefore player joysticks should be oriented straight up and down instead of angled, which really comes into play for the players 3 and 4 joysticks.
+
+![Straight vs. angled sticks](/assets/images/posts/2023-05-06/straight-and-angled-sticks.jpg)
+
+*Straight (P1-P3) vs. angled (P4) sticks*
+
 #### Buttons
 
 For buttons, I'm going to use the [Ultimarc GolfLeaf RGB Illuminated Pushbuttons](https://www.ultimarc.com/arcade/buttons/goldleaf-pushbuttons-rgb/).  They have good contacts that don't make too much of a clicky sound, and fully illuminate.
 
-![Ultimarc GolfLeaf RGB illuminated pushbutton](/assets/images/posts/2023-05-06-ultimarc-goldleaf-rgb-buttons.jpg)
+![Ultimarc GolfLeaf RGB illuminated pushbutton](/assets/images/posts/2023-05-06/ultimarc-goldleaf-rgb-buttons.jpg)
 
 *Ultimarc GolfLeaf RGB Illuminated Pushbutton*
 
@@ -78,7 +84,7 @@ In the middle of the control panel will be a trackball that can be used for trac
 
 The trackball will be a [Ultimarc U-Trak FlushMount Arcade Trackball](https://www.ultimarc.com/trackballs-and-spinners/trackballs/u-trak/?variation_id=370) that is translucent and illuminated by RGB lights.
 
-![Ultimarc trackball](/assets/images/posts/2023-05-06-ultimarc-u-trak-trackball.jpg)
+![Ultimarc trackball](/assets/images/posts/2023-05-06/ultimarc-u-trak-trackball.jpg)
 
 *Ultimarc trackball with Pearl translucent ball*
 
@@ -90,13 +96,13 @@ There are a handful of games where a spinner (for **Arkanoid**) or flight stick 
 
 The spinner will be the [Ultimarc SpinTrak Rotary Control](https://www.ultimarc.com/trackballs-and-spinners/spinners/spintrak/?variation_id=389) with a large black/silver knob, and a large fly-weight.
 
-![Ultimarc spinner](/assets/images/posts/2023-05-06-ultimarc-spintrak.jpg)
+![Ultimarc spinner](/assets/images/posts/2023-05-06/ultimarc-spintrak.jpg)
 
 *Ultimarc SpinTrak Rotary Control*
 
 The [Ultimarc UltraStik 360FS Flight Stick Version](https://www.ultimarc.com/arcade-controls/joysticks/ultrastik-360-oval-top-clone-en/) is what I will use for a flight stick.  It has analog sensitivity and a couple trigger buttons built in.
 
-![Ultimarc trackball](/assets/images/posts/2023-05-06-ultimarc-flight-stick.jpg)
+![Ultimarc trackball](/assets/images/posts/2023-05-06/ultimarc-flight-stick.jpg)
 
 *Ultimarc UltraStik 360FS flight stick*
 
@@ -110,7 +116,7 @@ We already have a kazillion buttons going into this control panel, but you never
 
 The [Elgato Stream Deck](https://www.elgato.com/en/stream-deck) is a popular device for content creators because it allows its 15 buttons to display custom glyphs and perform nearly any task imaginable.  I'll place one of these in the top portion of the control panel so that extended functionality for certain emulators or system functions like **Mute Sound** or **Shutdown** can live there.  It also can be used to quickly launch any utility apps I have.
 
-![Elgato Stream Deck](/assets/images/posts/2023-05-06-stream-deck.jpg)
+![Elgato Stream Deck](/assets/images/posts/2023-05-06/stream-deck.jpg)
 
 *Elgato Stream Deck (original version)*
 
@@ -122,7 +128,7 @@ We can't stop there though.  Let's also throw in a 7" display in the control.  W
 
 If we are potentially putting an interactive utility app there in the future, then we can't just have a basic display.  We need this display to be a touchscreen.
 
-![Beetronics 7" Touchscreen Display](/assets/images/posts/2023-05-06-beetronics-touchscreen-display.jpg)
+![Beetronics 7" Touchscreen Display](/assets/images/posts/2023-05-06/beetronics-touchscreen-display.jpg)
 
 *Beetronics 7" Touchscreen Display*
 
@@ -138,7 +144,7 @@ I not only included the "holes" that will be cut in the control panel wood, but 
 
 Once you combine everything with dimensions that you feel are right, you want to print out the design at life-size scale to give it a test run.
 
-![Test Printout](/assets/images/posts/2023-05-06-control-panel-test-printout.jpg)
+![Test Printout](/assets/images/posts/2023-05-06/control-panel-test-printout.jpg)
 
 *4' x 2' test printout*
 
@@ -154,7 +160,7 @@ At this point, I went on Reddit's **r/cade** subreddit and [asked for some feedb
 
 The final design moved the 7" touchscreen to the middle of the control panel, right under the admin buttons.  The spinner and flight stick were moved down, and offset a bit from their prior locations.  The trackball area was also adjusted.
 
-![Final Control Panel Design](/assets/images/posts/2023-05-06-control-panel-final.png)
+![Final Control Panel Design](/assets/images/posts/2023-05-06/control-panel-final.png)
 
 *The final control panel design (with underside cutouts hidden)*
 
