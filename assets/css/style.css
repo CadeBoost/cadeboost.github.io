@@ -420,7 +420,7 @@ video {
 }
 
 a {
-  color: #fdba74;
+  color: #ffffff;
 }
 
 a:hover {
@@ -443,7 +443,6 @@ h1 {
 }
 
 .prose a:hover {
-  color: #fdba74;
   color: #fed7aa;
 }
 
@@ -497,7 +496,7 @@ h1 {
 }
 
 .prose strong {
-  color: #d4d4d8;
+  color: #e4e4e7;
 }
 
 *, ::before, ::after {
