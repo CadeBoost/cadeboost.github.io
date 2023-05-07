@@ -444,7 +444,7 @@ h1 {
 }
 
 .prose a:hover {
-  color: #fed7aa;
+  color: #fed7aa !important;
 }
 
 /* Neon tricks: https://css-tricks.com/how-to-create-neon-text-with-css/ */

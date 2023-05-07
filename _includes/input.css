@@ -29,7 +29,7 @@
 	}
 
 	.prose a:hover {
-		color: theme("colors.orange.200");
+		color: theme("colors.orange.200") !important;
 	}
 
 	/* Neon tricks: https://css-tricks.com/how-to-create-neon-text-with-css/ */
