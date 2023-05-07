@@ -420,11 +420,11 @@ video {
 }
 
 a {
-  color: #fb923c;
+  color: #fdba74;
 }
 
 a:hover {
-  color: #fdba74;
+  color: #fed7aa;
 }
 
 h1 {
@@ -440,11 +440,11 @@ h1 {
 
 .prose a {
   text-decoration-line: none;
-  color: #fb923c;
+  color: #fdba74 !important;
 }
 
 .prose a:hover {
-  color: #fdba74;
+  color: #fed7aa;
 }
 
 /* Neon tricks: https://css-tricks.com/how-to-create-neon-text-with-css/ */

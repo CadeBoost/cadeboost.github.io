@@ -5,11 +5,11 @@
 @layer base {
 
 	a {
-		color: theme("colors.orange.400");
+		color: theme("colors.orange.300");
 	}
 
 	a:hover {
-		color: theme("colors.orange.300");
+		color: theme("colors.orange.200");
 	}
 
 	h1 {
@@ -25,11 +25,11 @@
 
 	.prose a {
 		@apply no-underline;
-		color: theme("colors.orange.400");
+		color: theme("colors.orange.300") !important;
 	}
 
 	.prose a:hover {
-		color: theme("colors.orange.300");
+		color: theme("colors.orange.200");
 	}
 
 	/* Neon tricks: https://css-tricks.com/how-to-create-neon-text-with-css/ */
