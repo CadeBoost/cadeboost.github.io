@@ -5,7 +5,7 @@
 @layer base {
 
 	a {
-		color: #ffffff;
+		color: theme("colors.orange.100");
 	}
 
 	a:hover {
@@ -25,6 +25,7 @@
 
 	.prose a {
 		@apply no-underline;
+		color: theme("colors.orange.100");
 	}
 
 	.prose a:hover {

@@ -420,7 +420,7 @@ video {
 }
 
 a {
-  color: #ffffff;
+  color: #ffedd5;
 }
 
 a:hover {
@@ -440,6 +440,7 @@ h1 {
 
 .prose a {
   text-decoration-line: none;
+  color: #ffedd5;
 }
 
 .prose a:hover {
