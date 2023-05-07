@@ -12,6 +12,10 @@ The [previous post]({% post_url 2023-01-04-planning-a-joystick-button-layout %})
 
 When planning a control panel, and even other wood boards as we'll see in future posts, you really do need a solid vector design application.  My personal favorite application of this type is named [Affinity Designer](https://affinity.serif.com/designer/) by Serif.  This application is amazing and can do pretty much everything [Adobe Illustrator](https://www.adobe.com/products/illustrator) can do, at least for our arcade-building needs, but without the enormous price tag.  I've used this application for many years now and can wholeheartedly recommend it.
 
+![Affinity Designer](/assets/images/posts/2023-05-06/affinity-designer.jpg)
+
+*Affinity Designer*
+
 ## Selecting the Control Panel Size
 
 The control panel size is determined by how many players you wish to support, what kinds of controls you'll have on it, and the desired density of controls.  A traditional full-size arcade cabinet also may limit the available width for a control panel.
