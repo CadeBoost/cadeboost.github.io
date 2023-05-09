@@ -1,4 +1,6 @@
-This web site documents my journey through building a high-end arcade pedestal, being a total noob in the process.
+This web site documents my journey through building a high-end arcade pedestal, being a total noob in the process.  My end goal is to create this beauty in real life:
+
+<img src="assets/images/posts/2023-05-08/pedestal-xray.jpg" width="300" height="300" alt="Pedestal" />
 
 [![Twitter](https://img.shields.io/twitter/follow/cadeboost?style=social)](https://twitter.com/CadeBoost)
 

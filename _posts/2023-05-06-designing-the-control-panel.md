@@ -170,4 +170,4 @@ The final design moved the 7" touchscreen to the middle of the control panel, ri
 
 The final design above shows light gray lines where button caps, joystick dust covers, etc. cover holes, which are indicated by black shapes.
 
-In the next post, we'll dive into designing the rest of the pedestal that will support the control panel box and house the PC.
+In the [next post]({% post_url 2023-05-08-designing-the-pedestal %}), we'll dive into designing the rest of the pedestal that will support the control panel box and house the PC.
