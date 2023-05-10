@@ -20,11 +20,9 @@ Some newer 4-player games like [Streets of Rage 4](https://store.steampowered.co
 
 This [Slagcoin Panel Layout](https://www.slagcoin.com/joystick/layout.html) page is an immensely helpful resource since they have done all the work of measuring and cataloging all common button layout designs.  Choose two or three that look appealing to you.
 
-Here's an example:
+Here's an example named **Clustered Arcade Layout**:
 
 ![Clustered Arcade Layout](/assets/images/posts/2023-01-04/slagcoin-clustered-arcade-layout.png)
-
-*Clustered Arcade Layout from Slagcoin*
 
 Many layout designs show a single option, but there are actually three options in this particular screenshot, with all three variations being for the vertical position and slight horizontal offset of the rightmost buttons.  I personally like the middle (displayed) option best, but many people like the option where the rightmost buttons align vertically with the second and third columns of buttons.
 
@@ -43,8 +41,6 @@ If you have real arcade buttons laying around, an even better way to test the la
 To create my test wood board, I taped a layout design on the board.  I then placed a nail setter over each hole's center on the paper and used a hammer to make a depression in the wood at that point to mark the holes' centers.  I used a **28mm drill bit** and drilled through the wood at each hole's center.  Then I inserted the arcade buttons and placed the test board's edges on a surface where I could use the buttons as if they were on a real arcade cabinet.  This methodology is the truest way to determine if you will be happy with a button layout design since you are interacting with real buttons.
 
 ![Test Wood board](/assets/images/posts/2023-01-04/test-wood-board.jpg)
-
-*My test wood board, with holes drilled for several layout designs*
 
 In my test wood board (a.k.a. **FrankenBoard**), I drilled holes for multiple layout designs.  After trying them all, it was very clear to me which one I should select.
 

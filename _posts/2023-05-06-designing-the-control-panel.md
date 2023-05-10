@@ -1,7 +1,7 @@
 ---
 title: "Designing the Control Panel"
 description: The control panel layout should be planned with care.
-tags: design control-panel joystick buttons
+tags: design control-panel joystick buttons affinity-designer
 ---
 
 Designing a control panel involves doing product research and selecting the controls to be included, making sure your control panel wood board has enough surface area to support the controls, and then using a vector design application to plot the overall layout.
