@@ -79,4 +79,4 @@ When you combine everything together, you end up with this beautiful pedestal:
 
 The great thing about having a 3-D model of the pedestal, beyond having a realistic visualization of the desired result, is that it's now relatively easy to get any measurements I need for any wood pieces.
 
-In the next post, we'll plan how we can slice up plywood boards to get all the pieces we need, and then will obtain the plywood material, cut it up, and prepare it for taking to a vendor with a CNC machine.
+In the [next post]({% post_url 2023-05-12-preparing-wood-for-cnc %}), we'll plan how we can slice up plywood boards to get all the pieces we need, and then will obtain the plywood material, cut it up, and prepare it for taking to a vendor with a CNC machine.
