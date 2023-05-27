@@ -4,7 +4,7 @@ description: We take rectangular wood boards and acrylic to a CNC vendor for cut
 tags: pedestal cabinet wood cnc
 ---
 
-Now it was time to gather up all the wood boards and the acrylic sheet to take the CNC vendor for cutting.  The CNC machine would make sure that all our cuts for the button, joystick, and other device holes were exact.
+Now it is time to gather up all the wood boards and the acrylic sheet to take the CNC vendor for cutting.  The CNC machine will make sure that all our cuts for the button, joystick, and other device holes were exact.
 
 In the [previous post]({% post_url 2023-05-12-preparing-wood-for-cnc %}), we cut the MDO plywood into a number of rectangular boards of various sizes.  We left extra space around the outside of where each of the boards will be cut using the CNC machine so that there was plenty of room for the wood to be secured during the cutting operations.
 
@@ -68,7 +68,7 @@ First, there are several places where 2" flexible desk grommets were meant to be
 
 Using a rotary sandpaper bit on the Dremel, we slightly increased the size of each grommet hole until they fit.
 
-Second, the Ultimarc spinner hole was also slightly too small.  I didn't account for wire that runs up the side of it.  Again, we were able to use the Dremel to widen the hole a bit to make sure it fits.
+Second, the Ultimarc spinner hole was also slightly too small.  I didn't account for a wire that runs up the side of it.  Again, we were able to use the Dremel to widen the hole a bit to make sure it fits.
 
 And third, the routed area to the right and the left of the 7" display needed about another 1-2mm of routing for the display's brackets to sit properly on the routed area.  My mistake, but fixed with the Dremel.
 

@@ -2,8 +2,6 @@ This web site documents my journey through building a high-end arcade pedestal, 
 
 <img src="assets/images/posts/2023-05-08/pedestal-xray.jpg" width="300" height="300" alt="Pedestal" />
 
-[![Twitter](https://img.shields.io/twitter/follow/cadeboost?style=social)](https://twitter.com/CadeBoost)
-
 ## Posts
 
 <ul>
@@ -18,5 +16,4 @@ This web site documents my journey through building a high-end arcade pedestal, 
 		</div>
     </li>
   {% endfor %}
-  <li><i>More coming soon!</i></li>
 </ul>
