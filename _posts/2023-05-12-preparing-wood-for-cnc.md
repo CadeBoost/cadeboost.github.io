@@ -100,4 +100,6 @@ After each piece was cut, we labeled each board with pencil and put the boards i
 
 This was an exciting first real step in seeing the project come alive.  We planned out how much wood we needed, how the plywood would be cut into boards of various sizes, and prepared to take a set of boards to the local CNC machine shop.
 
-In the next post, we'll have the CNC machine shop do the intricate cuts on some boards.
+![The mad scientist](/assets/images/posts/2023-05-12/mad-scientist.jpg)
+
+In the [next post]({% post_url 2023-05-27-cnc-cutting %}), we'll have the CNC machine shop do the intricate cuts on some boards.
