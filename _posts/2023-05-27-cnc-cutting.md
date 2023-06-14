@@ -84,4 +84,4 @@ They were able to get a similar cast acrylic sheet so that the cutting work coul
 
 Woohoo!  We now have all the materials needed to get to work on assembling the pedestal.
 
-In the next post, we'll take a slight detour to work on graphics that will be printed on vinyl and eventually applied on some of the plywood boards.
+In the [next post]({% post_url 2023-06-13-designing-vinyl-graphics %}), we'll take a slight detour to work on graphics that will be printed on vinyl and eventually applied on some of the plywood boards.
