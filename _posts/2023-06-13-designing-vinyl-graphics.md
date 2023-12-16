@@ -96,4 +96,4 @@ Above is a screenshot of the printed control panel vinyl art, which if you recal
 
 The artwork for the pedestal came together really nicely.  It has the TMNT theme I wanted, while still not being overly gaudy and busy.  Best of all, the printed vinyl looks amazing and I can't wait to see how it looks once it's all assembled.
 
-The next step in building the arcade pedestal will be to return to prepping the control panel for assembly.
+In the [next post]({% post_url 2023-07-22-routing-t-molding-slots %}), we will route slots for T-molding on several boards, using a special bit.
