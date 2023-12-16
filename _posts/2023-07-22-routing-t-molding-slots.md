@@ -24,7 +24,7 @@ The primary materials used in cutting T-molding slots are a router and a slottin
 
 ### Router
 
-![Alt text](../assets/images/posts/2023-07-22/router.jpg)
+![Alt text](/assets/images/posts/2023-07-22/router.jpg)
 
 A router is a tool that spins an attached bit at a very high speed to shape, cut, or trim wood.  In this case, we attached a slotting cutter bit to the router.
 
@@ -48,7 +48,7 @@ The first 20' run of T-molding that was purchased would be used for the side boa
 
 ### Clamping
 
-![Clamped wood](../assets/images/posts/2023-07-22/clamped-wood.jpg)
+![Clamped wood](/assets/images/posts/2023-07-22/clamped-wood.jpg)
 
 When preparing to route anything, it's extremely important to clamp everything in place.  Any movement of wood boards can be disastrous.  And as we'll see later, keeping the router flat on the board's surface when doing cuts around complicated corners can be challenging, also leading to major problems.
 
@@ -56,17 +56,17 @@ When preparing to route anything, it's extremely important to clamp everything i
 
 After clamping the boards down, the router bit needs to be positioned properly.  In most cases, the router bit will want to extend directly over the middle of the woods edge being cut so that the T-molding will perfectly span the board.  The two pedestal side boards were cut in this way.
 
-![Side panel corner](../assets/images/posts/2023-07-22/side-panel-corner.jpg)
+![Side panel corner](/assets/images/posts/2023-07-22/side-panel-corner.jpg)
 
 However the control panel top couldn't be cut in this fashion.  There will be a 3mm thick acrylic piece that sits on top of the control panel top.  I wanted the T-molding to cover the edges of that acrylic piece.  Therefore I had to shift the bit upward 3mm from board edge center to get the slot where it needed to be.
 
-![Routing control panel](../assets/images/posts/2023-07-22/routing-control-panel2.jpg)
+![Routing control panel](/assets/images/posts/2023-07-22/routing-control-panel2.jpg)
 
 This left one issue.  Some of the wood board's lower edge would be visible under the T-molding.  What we did later on was to take another router bit that cut at a 45-degree angle, and ran that along the bottom of the control panel top board.  This created a chamfered edge that would taper away from the eyes and be minimally visible.
 
 ### Routing Direction
 
-![Routing the side panel](../assets/images/posts/2023-07-22/routing-side-panel.jpg)
+![Routing the side panel](/assets/images/posts/2023-07-22/routing-side-panel.jpg)
 
 When routing, you need to determine the spin direction of the router and move slowly around the outside perimeter of the board in the direction where the router bit is cutting into the wood.
 
@@ -74,17 +74,17 @@ When routing, you need to determine the spin direction of the router and move sl
 
 Overall the slot routing went very well and turned out as expected.
 
-![Control panel corner](../assets/images/posts/2023-07-22/control-panel-corner.jpg)
+![Control panel corner](/assets/images/posts/2023-07-22/control-panel-corner.jpg)
 
 The slots were most difficult to cut around curves.
 
-![Control panel curves](../assets/images/posts/2023-07-22/control-panel-corner2.jpg)
+![Control panel curves](/assets/images/posts/2023-07-22/control-panel-corner2.jpg)
 
 ### Mistakes Made
 
 I had two major mistakes occur while routing the slots on the boards.  The first was near a complex rounded portion of the control panel top board.  The second was near the end of one of the side boards.  In both cases, the router didn't remain flush on the resting surface of the board and started to rise up, making the slot move upward.  Unfortunately you can't tell when this happens until you've already gone several inches.
 
-![Chewed up corner](../assets/images/posts/2023-07-22/control-panel-bad-corner.jpg)
+![Chewed up corner](/assets/images/posts/2023-07-22/control-panel-bad-corner.jpg)
 
 I made the difficult decision to go back and cut the slot properly after discovering the issue.  This meant that in a couple of boards, there was an area where the slot was now too wide.  We will have to compensate for this later on when inserting the T-molding by padding one side of the fin with tape or something else.
 
